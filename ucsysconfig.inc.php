@@ -155,8 +155,8 @@ $sysconf['enable_xml_detail'] = true;
 $sysconf['enable_xml_result'] = true;
 
 // names
-$sysconf['library_name'] = 'Union Catalog Server';
-$sysconf['library_subname'] = 'SLiMS';
+$sysconf['library_name'] = 'Katalog Bersama Kebudayaan';
+$sysconf['library_subname'] = '';
 
 /* SYSTEM LIBRARIES */
 // include utility library
